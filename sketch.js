@@ -32,7 +32,7 @@ function setup() {
 }
 
 function draw() {
-  background(bg ,mg ,cg);
+  background("white");
 
    if(isDrawing){
        var point = {
